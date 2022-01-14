@@ -1,4 +1,4 @@
-Used to be a Node.js developer in Tencent Video. T
+Used to be a Node.js developer in Tencent Video. 
 
 The course instructor of https://time.geekbang.org/course/intro/232.
 
