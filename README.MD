@@ -1,6 +1,6 @@
-* Used to be a Node.js developer in Tencent Video. 
-* Used to be a Developer in Wechat Minigame
-* Used to be the maintainer of [Tencent/puerts](https://github.com/Tencent/puerts)
+* Former Node.js developer in Tencent Video. 
+* Former Developer in Wechat Minigame
+* Former maintainer of [Tencent/puerts](https://github.com/Tencent/puerts)
 
 ---------
 * 前腾讯视频Node.js开发
